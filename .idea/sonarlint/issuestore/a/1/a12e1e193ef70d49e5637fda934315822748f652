@@ -1,0 +1,17 @@
+
+n
+java:S11926"SDefine a constant instead of duplicating this literal "HTTP/1.0 200 OK\r
+" 4 times.(øÖë­ùÿÿÿÿ
+=
+java:S2189B""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+h	java:S116
+"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‘ƒÁúÿÿÿÿ
+<
+java:S1170
+"!Make this final field static too.(¼‘ƒÁúÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÿ£˜½úÿÿÿÿ
+R
+java:S4719"<Replace charset name argument with StandardCharsets.US_ASCII(Á²á…
+\
+java:S2142G"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

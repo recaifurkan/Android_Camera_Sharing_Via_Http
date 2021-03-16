@@ -1,0 +1,11 @@
+
+V	java:S110"<This class has 7 parents which is greater than 5 authorized.(úÛœøÿÿÿÿ
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‘ƒÁúÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¼‘ƒÁúÿÿÿÿ
+D
+java:S1905/")Remove this unnecessary cast to "String".(Ëà¶Šûÿÿÿÿ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(İÀ£È
+Q	java:S125]"<This block of commented-out lines of code should be removed.(‹ûÊÜ
+@
+java:S1481^"*Remove this unused "range" local variable.(¡çÜŒ

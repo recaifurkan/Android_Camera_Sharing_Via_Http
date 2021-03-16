@@ -1,0 +1,23 @@
+
+{
+java:S1450"`Remove the "mForegroundButton" field and declare it as a local variable in the relevant methods.(á÷ ùøÿÿÿÿ
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‘ƒÁúÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¼‘ƒÁúÿÿÿÿ
+7	java:S131@""Add a default case to this switch.(ºÖ
+V	java:S125N"<This block of commented-out lines of code should be removed.(¯È§Ûüÿÿÿÿ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(÷”±
+h
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(„ŒÛ®
+t
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(úİİüÿÿÿÿ
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Ùè¿øÿÿÿÿ
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(õÓÕç
+u
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªü¯™ùÿÿÿÿ
+E
+java:S1481".Remove this unused "cameraIds" local variable.(âÊÒ¹
+P
+java:S1068"5Remove this unused "mForegroundButton" private field.(á÷ ùøÿÿÿÿ
